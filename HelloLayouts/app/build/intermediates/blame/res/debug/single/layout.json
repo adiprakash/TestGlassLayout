@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_widget.xml",
+        "source": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\exploded-aar\\HelloLayouts\\SmartExtensionUtils\\unspecified\\res\\layout\\smart_watch_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_notification_widget.xml",
+        "source": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\exploded-aar\\HelloLayouts\\SmartExtensionUtils\\unspecified\\res\\layout\\smart_watch_notification_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smarteyeglass_widgetcard.xml",
+        "source": "C:\\Users\\ADITYA\\AppData\\Local\\Android\\sdk\\add-ons\\addon-sony_smarteyeglass_sdk-sony-19\\samples\\HelloLayouts\\app\\build\\intermediates\\exploded-aar\\HelloLayouts\\SmartEyeglassAPI\\unspecified\\res\\layout\\smarteyeglass_widgetcard.xml"
+    }
+]

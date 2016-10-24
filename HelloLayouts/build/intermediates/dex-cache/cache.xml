@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\AppData\Local\Android\sdk\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\HelloLayouts\app\build\intermediates\exploded-aar\HelloLayouts\SmartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40f94d048813f819b3c07aef0a406c269048038b">
+        <dex dex="C:\Users\ADITYA\AppData\Local\Android\sdk\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\HelloLayouts\app\build\intermediates\pre-dexed\debug\HelloLayouts-SmartExtensionAPI-unspecified_db2fa58dfebe2ce80eff79ef0f971da049daae0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\AppData\Local\Android\sdk\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\HelloLayouts\app\build\intermediates\exploded-aar\HelloLayouts\SmartEyeglassAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0933b521653e6b7c14aa577cef0beb57ac8ea68">
+        <dex dex="C:\Users\ADITYA\AppData\Local\Android\sdk\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\HelloLayouts\app\build\intermediates\pre-dexed\debug\HelloLayouts-SmartEyeglassAPI-unspecified_16eba777a1b077768b1edea1a1b53a1b41a022ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\AppData\Local\Android\sdk\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\HelloLayouts\app\build\intermediates\exploded-aar\HelloLayouts\SmartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="482e1ecf77b3554744039f5286e86e752a29ca52">
+        <dex dex="C:\Users\ADITYA\AppData\Local\Android\sdk\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\HelloLayouts\app\build\intermediates\pre-dexed\debug\HelloLayouts-SmartExtensionUtils-unspecified_07d9a84dade5fa52468d145bd0ae9bb26729fc52.jar" />
+    </item>
+
+</items>
